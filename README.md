@@ -1,4 +1,4 @@
-## Hi there 👋
+## Fraud & Risk Analyst | Data Analytics | Python · SQL · Tableau 👋
 
 <!--
 **Salikhat/Salikhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
